@@ -15,7 +15,7 @@ Projeto com o objetivo de criar um podcast utilizando ferramentas de IA.
 
 - Primeiramente escolhi um tema que gosto muito que são rotinas diárias em administração de banco de dados.
 - Roteiro criado via ChatGPT
-- Criação da mídia: studio Genny, ferramenta LOVO AI - Essa ferramenta faz complitados Text to Speech e também faz geração de imagens a partir de prompt.
+- Criação da mídia: studio Genny, ferramenta LOVO AI - Essa ferramenta faz compilados Text to Speech e também faz geração de imagens a partir de prompt.
 
 
 ## 📚 Artigo disponível em:
